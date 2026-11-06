@@ -28,10 +28,14 @@ Interactive charts and KPI cards showcase hospital performance and key trends.
 
 ##KEY INSIGHTS
 
-1 Identify departments with the highest patient visits and bills
-2 Monitor payment status and insurance coverage.
-3 Track admission trends and patient demographics.
-4 Highlight areas requiring management attention.
+1 ##Identify departments with the highest patient visits and bills
+
+2 ##Monitor payment status and insurance coverage.
+
+3 ##Track admission trends and patient demographics.
+
+4 ##Highlight areas requiring management attention.
+
 
 ##RECOMMENDATIONS
 
