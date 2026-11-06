@@ -20,7 +20,8 @@ The hospital lacks a consolidated system for monitoring patient admission, billi
 
 ##DATA VISUALIZATION
 
-![](screenshot2026-11-061107.png)
+![](dashboard_image.png.png)
+
 
 
 Interactive charts and KPI cards showcase hospital performance and key trends.
